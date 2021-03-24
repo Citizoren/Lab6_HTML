@@ -1,12 +1,13 @@
-#spisok1{
-list-style-type:decimal;
+#blok1{
+border:1px solid red;
+width:150px;
+height:50px;
+float:right;
 }
-#spisok2{
-list-style-type:lower-roman;
-}
-#spisok3{
-list-style-type:upper-roman;
-}
-#spisok4{
-list-style-type:lower-alpha;
+#blok2{
+border:1px solid red;
+width:150px;
+height:50px;
+float:right;
+clear:right;
 }
